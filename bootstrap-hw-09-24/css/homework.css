@@ -2,19 +2,19 @@
 /* CSS Documnt */
 
 .first-column {
-    background-color: #3a3f58;
+    background-color:#3a3f58;
     color:#f8f9fa;
 }
 
 .second-column {
     /* background-color: #333333; */
-    background-color: #e05a00;
+    background-color:#e05a00;
     color:#eeeeee;
 }
 
 .third-column {
     /* background-color: #e05a00; */
-    background-color: #333333;
+    background-color:#333333;
     color:#f8f9fa;
 }
 
@@ -29,11 +29,11 @@
 }
 
 .navbar {
-    background-color: #1a1a2e !important; 
+    background-color:#1a1a2e !important; 
 }
 
 .bg-body-tertiary {
-    background-color: #1a1a2e; 
+    background-color:#1a1a2e; 
 }
 
 .navbar-bg-color {
@@ -41,11 +41,11 @@
 }
 
 .nav-link {
-    color: #f8f9fa !important; 
+    color:#f8f9fa !important; 
 }
 
 .nav-link.active {
-    color: #ffdd00 !important; 
+    color:#ffdd00 !important; 
 }
 
 .nav-link:hover { 
@@ -53,11 +53,11 @@
 }
 
 .navbar-brand { 
-    color: #ffffff !important;
+    color:#ffffff !important;
 }
 
 .navbar-link:active { 
-    color: #ffffff  !important;
+    color:#ffffff  !important;
 }
 
 .navbar-toggler{
@@ -67,7 +67,6 @@
 h1 {
     font-size: 1.602em;
     font-weight: 700;
-    
 }
 
 h2 {
@@ -78,7 +77,6 @@ h2 {
 h3 { 
     font-size: 1.424em;
     font-weight: 700;
-
 }
 
 h4 {
@@ -129,8 +127,7 @@ p {
     color: black; 
 }
 
-/* This colors the slider arrow on the right black  */
 .carousel-control-prev-icon,          
 .carousel-control-next-icon {
-    background-color: black;
+    background-color: black; /* This colors the slider arrow on the right black  */
 }
